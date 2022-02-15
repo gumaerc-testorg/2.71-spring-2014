@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 ---
@@ -34,7 +37,7 @@ SOLUTIONS
 
 {{< tdclose >}}
 {{< tdopen >}}
-<No Solutions>
+\<No Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +49,7 @@ SOLUTIONS
 [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_s08_quiz1)
 {{< tdclose >}}
 {{< tdopen >}}
-<No ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Solutions>
+\<No ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +61,7 @@ SOLUTIONS
 [Quiz 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_s09_quiz2)
 {{< tdclose >}}
 {{< tdopen >}}
-<No Solutions>
+\<No Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}

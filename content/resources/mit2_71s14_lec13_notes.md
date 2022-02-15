@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   13.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2014/ec1f3a7e694918d36cd70082cf9dcc6c_MIT2_71S14_lec13_notes.pdf
+file: /media/courses/2-71-optics-spring-2014/ec1f3a7e694918d36cd70082cf9dcc6c_MIT2_71S14_lec13_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Optics, Lecture 13
 uid: ec1f3a7e-6949-18d3-6cd7-0082cf9dcc6c

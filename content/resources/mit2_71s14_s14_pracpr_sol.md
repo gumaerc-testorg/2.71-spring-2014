@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics solutions
   to exam practice problems, 2014.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2014/e13f8e1329350557cc15cb11f4ee3207_MIT2_71S14_s14_PracPr_Sol.pdf
+file: /media/courses/2-71-optics-spring-2014/e13f8e1329350557cc15cb11f4ee3207_MIT2_71S14_s14_PracPr_Sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Optics, Solutions to Exam Practice Problems, 2014
 uid: e13f8e13-2935-0557-cc15-cb11f4ee3207

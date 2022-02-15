@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   25.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-71-optics-spring-2014/ecd8b4c1c7717a31e961837de299879b_MIT2_71S14_lec25_notes.pdf
+file: /media/courses/2-71-optics-spring-2014/ecd8b4c1c7717a31e961837de299879b_MIT2_71S14_lec25_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Optics, Lecture 25
 uid: ecd8b4c1-c771-7a31-e961-837de299879b

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ca7ed828-bcb8-feae-0c4e-b4591c4314fe
 ---
@@ -70,7 +73,7 @@ SOLUTIONS
 [Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_71s14_hw_5)
 {{< tdclose >}}
 {{< tdopen >}}
-<No Solutions>
+\<No Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ SOLUTIONS
 [Problem Set 6 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_71s14_hw_6)
 {{< tdclose >}}
 {{< tdopen >}}
-<No Solutions>
+\<No Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}
