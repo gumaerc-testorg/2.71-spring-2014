@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d97c0c1e-1916-45de-e962-d439d27acfcb
 resourcetype: Document
 title: Optics, Lecture 16
 uid: 4b53a574-7f9b-58b9-b73b-2bbcc39945f0

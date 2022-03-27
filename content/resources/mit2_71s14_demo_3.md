@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 154e7e04-eecd-654c-7e8e-a99f944c1c33
 resourcetype: Document
 title: Optics, Lab Demo 3
 uid: c885f8db-16ea-9b08-eb4f-3b7c325724b3

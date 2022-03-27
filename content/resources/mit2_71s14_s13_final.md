@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 resourcetype: Document
 title: Optics, Exam Final, 2013
 uid: 750b27d1-52e6-91c8-2c79-0be733cce957

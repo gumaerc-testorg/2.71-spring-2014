@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 resourcetype: Document
 title: Optics, Exam 2, 2009
 uid: 531588ec-103f-f5b7-b65b-11a710ac3290

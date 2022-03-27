@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ca7ed828-bcb8-feae-0c4e-b4591c4314fe
 resourcetype: Document
 title: Optics, Solutions to Assignment 4
 uid: 7d6f96a4-5ca5-94e6-634c-3933bd433f91

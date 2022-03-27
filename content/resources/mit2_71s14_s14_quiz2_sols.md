@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 resourcetype: Document
 title: Optics, Solutions to Exam 2, 2014
 uid: 6d6c24fd-d7dd-baf5-636c-4c1f1a30ab2b
