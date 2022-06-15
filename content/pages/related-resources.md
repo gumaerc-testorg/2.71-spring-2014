@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides supplementary materials, recitation notes, and
+  lab demos for those interested in learning more about the topics covered in the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,11 +14,11 @@ The resources provided below are useful references for those interested in learn
 Supplemental Materials
 ----------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hamiltonian Practice Problem (PDF)]({{< baseurl >}}/resources/mit2_71s14_hamiltonian)
+{{% resource_link f3e7a32e-12d8-fd0f-b631-114d436cd825 "Hamiltonian Practice Problem (PDF)" %}}
 
-[Circular Convolution (PDF)]({{< baseurl >}}/resources/mit2_71s14_circ)
+{{% resource_link d09065a6-3bb0-212c-e729-362b70eae7ae "Circular Convolution (PDF)" %}}
 
-[Practice Problem for Triangular Apertures (PDF)]({{< baseurl >}}/resources/mit2_71s14_apertures)
+{{% resource_link aa6b8a97-5262-651c-a75c-2c6ae670932f "Practice Problem for Triangular Apertures (PDF)" %}}
 
 Guillemin, Victor, and Shlomo Sternberg. _Semi-Classical Analysis_. International Press of Boston, 2013. ISBN: 9781571462763. \[Preview with [Google Books](http://books.google.com/books?id=3Z0CAQAAQBAJ&pg=PAfrontcover)\]
 
@@ -42,17 +45,17 @@ Ramesh, Krishnamurthi. "Photoelasticity." In _Springer Handbook of Experimental 
 Recitation Notes
 ----------------
 
-[Common Confusions in Ray Optics (PDF)]({{< baseurl >}}/resources/mit2_71s14_rec1)
+{{% resource_link e1ef0cb8-6c5c-1957-7fbb-c751524b21bd "Common Confusions in Ray Optics (PDF)" %}}
 
-[Clarifications from Quiz 1 Review (PDF)]({{< baseurl >}}/resources/mit2_71s14_rec2)
+{{% resource_link 2bede8d3-bf78-26a4-f27c-bdc2e93f97ee "Clarifications from Quiz 1 Review (PDF)" %}}
 
-[Additional Information from Quiz 2 Review (PDF)]({{< baseurl >}}/resources/mit2_71s14_rec3)
+{{% resource_link 821609dd-c97b-5e4a-46e1-e5e5c8ba29cc "Additional Information from Quiz 2 Review (PDF)" %}}
 
 Lab Demos
 ---------
 
-[Fish Tank Optics (PDF)]({{< baseurl >}}/resources/mit2_71s14_demo_1)
+{{% resource_link 7f2e6142-7c85-b2f4-8309-7eb056e8013f "Fish Tank Optics (PDF)" %}}
 
-[Far-Field Diffraction (PDF)]({{< baseurl >}}/resources/mit2_71s14_demo_2)
+{{% resource_link ca4c1354-b3bd-074a-5c43-62d2bdd5cc95 "Far-Field Diffraction (PDF)" %}}
 
-[4F Spatial Filtering (PDF)]({{< baseurl >}}/resources/mit2_71s14_demo_3)
+{{% resource_link c885f8db-16ea-9b08-eb4f-3b7c325724b3 "4F Spatial Filtering (PDF)" %}}

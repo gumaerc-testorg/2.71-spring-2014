@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   7.
-file: /media/courses/2-71-optics-spring-2014/3a0560c6aa37dc11eae36f3f69a4ed7b_MIT2_71S14_lec7_notes.pdf
+file: /courses/2-71-optics-spring-2014/3a0560c6aa37dc11eae36f3f69a4ed7b_MIT2_71S14_lec7_notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Optics, Lecture 7
 uid: 3a0560c6-aa37-dc11-eae3-6f3f69a4ed7b
 ---
+This is a resource file that contains information regarding optics lecture 7.
+
