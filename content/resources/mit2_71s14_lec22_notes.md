@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/c683c04243df558f6048cc11924ff44f_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Lecture 22
 uid: c683c042-43df-558f-6048-cc11924ff44f
 ---
 This is a resource file that contains information regarding optics lecture 22.
-

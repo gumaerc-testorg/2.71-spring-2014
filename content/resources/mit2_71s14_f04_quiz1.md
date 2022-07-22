@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/60a6d4e2ed32356be24e96105cccc1e6_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Exam 1, 2004
 uid: 60a6d4e2-ed32-356b-e24e-96105cccc1e6
 ---
 This is a resource file that contains information regarding optics exam 1, 2004.
-

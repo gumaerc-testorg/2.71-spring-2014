@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/4b53a5747f9b58b9b73b2bbcc39945f0_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Lecture 16
 uid: 4b53a574-7f9b-58b9-b73b-2bbcc39945f0
 ---
 This is a resource file that contains information regarding optics lecture 16.
-

@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/3a0560c6aa37dc11eae36f3f69a4ed7b_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Lecture 7
 uid: 3a0560c6-aa37-dc11-eae3-6f3f69a4ed7b
 ---
 This is a resource file that contains information regarding optics lecture 7.
-

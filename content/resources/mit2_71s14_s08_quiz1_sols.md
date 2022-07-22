@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/813ebc3deeb11be44e979e44b9fe0210_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Exam 1, 2008
 uid: 813ebc3d-eeb1-1be4-4e97-9e44b9fe0210
 ---
 This is a resource file that contains information regarding optics exam 1, 2008.
-

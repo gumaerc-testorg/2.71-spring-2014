@@ -6,6 +6,7 @@ file: /courses/2-71-optics-spring-2014/6d6c24fdd7ddbaf5636c4c1f1a30ab2b_MIT2_71S
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Optics, Solutions to Exam 2, 2014
 uid: 6d6c24fd-d7dd-baf5-636c-4c1f1a30ab2b
 ---
 This is a resource file that contains information regarding optics solutions to exam 2, 2014.
-
