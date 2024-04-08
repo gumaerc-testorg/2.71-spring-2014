@@ -181,5 +181,5 @@ Suggested References
 *   Smith, W. J. _Modern Optical Engineering_. 4th ed. SPIE Press, 2007. ISBN: 9780819470966.
 *   Bass, Michael, E. W. Van Stryland, D. R. Williams, eds. _Handbook of Optics_. Vol 1, 2nd ed. McGraw-Hill Professional, 1995. ISBN: 9780070477407.
 *   Haus, H. A. _Waves and Fields in Optoelectronics_. Prentice Hall, 1983. ISBN: 9780139460531.
-*   Iizuka, Keigo. _Elements of Photonics_. Vol 1. Wiley-Interscience, 2002. ISBN: 9780471839385. \[Preview with [Google Books](https://books.google.co.in/books?id=CRfDHdahgz0C&pg=PAfrontcover&redir_esc=y#v=onepage&q&f=false)\]
+*   Iizuka, Keigo. _Elements of Photonics_. Vol 1. Wiley-Interscience, 2002. ISBN: 9780471839385. \[Preview with {{% resource_link "18560248-03bc-49de-b4ed-678eb9803e94" "Google Books" %}}\]
 *   Voelz, David George. _Computational Fourier Optics: A MATLAB Tutorial_. SPIE Press, 2011. ISBN: 9780819482044.
