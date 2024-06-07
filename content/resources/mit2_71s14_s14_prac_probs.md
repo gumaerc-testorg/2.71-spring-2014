@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics exam
   practice problems, 2014.
 file: /courses/2-71-optics-spring-2014/f887719139cc75cb64382e7bb04efff5_MIT2_71S14_s14_Prac_Probs.pdf
+file_size: 753913
 file_type: application/pdf
 learning_resource_types:
 - Exams

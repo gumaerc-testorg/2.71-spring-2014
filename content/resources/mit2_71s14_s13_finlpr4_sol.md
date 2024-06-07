@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics solutions
   to exam 4 final, 2013.
 file: /courses/2-71-optics-spring-2014/1ed98976f1107d095803607aaa2e6883_MIT2_71S14_s13_FinlPr4_sol.pdf
+file_size: 673742
 file_type: application/pdf
 learning_resource_types:
 - Exams
