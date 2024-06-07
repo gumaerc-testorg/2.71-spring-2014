@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   20.
 file: /courses/2-71-optics-spring-2014/e6c5af8e2e9757e569fdc7c76cd623aa_MIT2_71S14_lec20_notes.pdf
+file_size: 1122412
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

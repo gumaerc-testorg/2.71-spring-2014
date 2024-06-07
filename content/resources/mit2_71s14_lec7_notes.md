@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   7.
 file: /courses/2-71-optics-spring-2014/3a0560c6aa37dc11eae36f3f69a4ed7b_MIT2_71S14_lec7_notes.pdf
+file_size: 1346999
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

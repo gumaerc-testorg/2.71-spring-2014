@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics solutions
   to exam 1, 2012.
 file: /courses/2-71-optics-spring-2014/98e136ff424ad35d0adedc93ad7f7fbe_MIT2_71S14_s12_quiz1_sols.pdf
+file_size: 1426935
 file_type: application/pdf
 learning_resource_types:
 - Exams
