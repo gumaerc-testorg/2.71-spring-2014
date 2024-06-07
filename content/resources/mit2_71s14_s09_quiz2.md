@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding optics exam
   2, 2009.
 file: /courses/2-71-optics-spring-2014/531588ec103ff5b7b65b11a710ac3290_MIT2_71S14_s09_quiz2.pdf
+file_size: 673280
 file_type: application/pdf
 learning_resource_types:
 - Exams

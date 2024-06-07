@@ -20,27 +20,27 @@ Supplemental Materials
 
 {{% resource_link aa6b8a97-5262-651c-a75c-2c6ae670932f "Practice Problem for Triangular Apertures (PDF)" %}}
 
-Guillemin, Victor, and Shlomo Sternberg. _Semi-Classical Analysis_. International Press of Boston, 2013. ISBN: 9781571462763. \[Preview with {{% resource_link "c58eeac4-943d-41e5-be07-0621ea72e6a5" "Google Books" %}}\]
+Guillemin, Victor, and Shlomo Sternberg. _Semi-Classical Analysis_. International Press of Boston, 2013. ISBN: 9781571462763. \[Preview with [Google Books](http://books.google.com/books?id=3Z0CAQAAQBAJ&pg=PAfrontcover)\]
 
-Fattal, David, Zhen Peng, et al. "{{% resource_link "81ef9712-4df7-4c6d-88d1-2bbb5784f169" "A Multi-Directional Backlight for a Wide-Angle, Glasses-Free Three-Dimensional Display" %}}." _Nature_ 495, no. 7441 (2013): 348–51.
+Fattal, David, Zhen Peng, et al. "[A Multi-Directional Backlight for a Wide-Angle, Glasses-Free Three-Dimensional Display](http://dx.doi.org/10.1038/nature11972)." _Nature_ 495, no. 7441 (2013): 348–51.
 
-Principles of {{% resource_link "c5b57858-f282-4f1c-973c-d2fd21cd19ac" "Phase Contrast Microscopy" %}}
+Principles of [Phase Contrast Microscopy](http://www.microscopyu.com/articles/phasecontrast/phasemicroscopy.html)
 
-Iizuka, Keigo. "{{% resource_link "b3c362bd-65d7-4106-b26e-8e1528232f8e" "Cellophane as a Half-wave Plate and Its Use for Converting a Laptop Computer Screen into a Three-dimensional Display" %}}." _Review of Scientific Instruments_ 74, no. 8 (2003): 3636–39.
+Iizuka, Keigo. "[Cellophane as a Half-wave Plate and Its Use for Converting a Laptop Computer Screen into a Three-dimensional Display](http://dx.doi.org/10.1063/1.1592879)." _Review of Scientific Instruments_ 74, no. 8 (2003): 3636–39.
 
-Hamilton, William R. {{% resource_link "30763857-23bb-4476-a21c-efc6880d4902" "_Theory of Systems of Rays_" %}}. 1828.
+Hamilton, William R. [_Theory of Systems of Rays_](http://www.maths.tcd.ie/pub/HistMath/People/Hamilton/Rays/). 1828.
 
-Pogue, David. "{{% resource_link "b5c44724-aeee-4863-846d-448610663b7b" "Why Retina Displays and 4K TVs May Not Be Worth the Trouble" %}}." _Scientific American_, March 2013.
+Pogue, David. "[Why Retina Displays and 4K TVs May Not Be Worth the Trouble](http://www.scientificamerican.com/article/why-retina-displays-4k-tvs-may-not-worth-trouble/)." _Scientific American_, March 2013.
 
-Knox, Wayne H., Miguel Alonso, et al. "{{% resource_link "95ccd10f-23a9-45a1-a0db-8bf06eb2e02e" "Spatial Coherence from Ducks" %}}." _Physics Today_ 63, no. 3 (2010): 11.
+Knox, Wayne H., Miguel Alonso, et al. "[Spatial Coherence from Ducks](http://dx.doi.org/10.1063/1.3366225)." _Physics Today_ 63, no. 3 (2010): 11.
 
-Crockett, Christopher. "{{% resource_link "f9ff6f70-82cd-4dc4-9d13-3381e089575e" "Gravitational Waves Unmask Universe Just after Big Bang" %}}," _Science News_, March 17, 2014.
+Crockett, Christopher. "[Gravitational Waves Unmask Universe Just after Big Bang](https://www.sciencenews.org/article/gravitational-waves-unmask-universe-just-after-big-bang)," _Science News_, March 17, 2014.
 
-Kim, Myung K. _Digital Holographic Microscopy: Principles, Techniques, and Applications_. Springer, 2011. ISBN: 9781441977929. \[Preivew with {{% resource_link "f9188016-937d-4014-abf5-5e5429fc8803" "Google Books" %}}\]
+Kim, Myung K. _Digital Holographic Microscopy: Principles, Techniques, and Applications_. Springer, 2011. ISBN: 9781441977929. \[Preivew with [Google Books](http://books.google.com/books?id=TNEIvHaNjawC&pg=PAfrontcover)\]
 
-"{{% resource_link "4181dc75-36e2-48f9-a0e2-aeb6f3de4182" "The Subminiature Vacuum Tube: The Cycle of Technology" %}}." MIT Video.
+"[The Subminiature Vacuum Tube: The Cycle of Technology](http://video.mit.edu/watch/the-subminiature-vacuum-tube-the-cycle-of-technology-27187/)." MIT Video.
 
-Ramesh, Krishnamurthi. "Photoelasticity." In _Springer Handbook of Experimental Solid Mechanics_, 701-742. Springer, 2008, pp. 701–42. ISBN: 9780387268835. \[Preivew with {{% resource_link "b525bb92-76e5-47ce-ad48-052be4a84d7b" "Google Books" %}}\]
+Ramesh, Krishnamurthi. "Photoelasticity." In _Springer Handbook of Experimental Solid Mechanics_, 701-742. Springer, 2008, pp. 701–42. ISBN: 9780387268835. \[Preivew with [Google Books](http://books.google.com/books?id=I_1y1OkqZqQC&pg=PA700=onepage)\]
 
 Recitation Notes
 ----------------
