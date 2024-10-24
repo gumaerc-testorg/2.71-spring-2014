@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   13.
-file: /courses/2-71-optics-spring-2014/ec1f3a7e694918d36cd70082cf9dcc6c_MIT2_71S14_lec13_notes.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/ec1f3a7e694918d36cd70082cf9dcc6c_MIT2_71S14_lec13_notes.pdf
 file_size: 1438235
 file_type: application/pdf
 learning_resource_types:
