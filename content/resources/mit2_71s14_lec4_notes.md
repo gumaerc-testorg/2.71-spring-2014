@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics lecture
   4.
-file: /courses/2-71-optics-spring-2014/04d4bff4ff4a9ae5e2c8ba7500905557_MIT2_71S14_lec4_notes.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/04d4bff4ff4a9ae5e2c8ba7500905557_MIT2_71S14_lec4_notes.pdf
 file_size: 1300059
 file_type: application/pdf
 learning_resource_types:
