@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding recitation
   1.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/e1ef0cb86c5c19577fbbc751524b21bd_MIT2_71S14_Rec1.pdf
+file: /courses/2-71-optics-spring-2014/e1ef0cb86c5c19577fbbc751524b21bd_MIT2_71S14_Rec1.pdf
 file_size: 248681
 file_type: application/pdf
 learning_resource_types: []

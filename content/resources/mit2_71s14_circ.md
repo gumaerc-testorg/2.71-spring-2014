@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding circular
   convolution.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/d09065a63bb0212ce729362b70eae7ae_MIT2_71S14_circ.pdf
+file: /courses/2-71-optics-spring-2014/d09065a63bb0212ce729362b70eae7ae_MIT2_71S14_circ.pdf
 file_size: 197396
 file_type: application/pdf
 learning_resource_types: []

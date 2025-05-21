@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics, solutions
   to assignment 1.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/29862d5e41cfb75fd5eabfa10cd53b2d_MIT2_71S14_HW_1_sols.pdf
+file: /courses/2-71-optics-spring-2014/29862d5e41cfb75fd5eabfa10cd53b2d_MIT2_71S14_HW_1_sols.pdf
 file_size: 534190
 file_type: application/pdf
 learning_resource_types:
