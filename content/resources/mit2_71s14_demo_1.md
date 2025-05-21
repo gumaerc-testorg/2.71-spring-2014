@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lab demo
   1.
-file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/7f2e61427c85b2f483097eb056e8013f_MIT2_71S14_Demo_1.pdf
+file: /courses/2-71-optics-spring-2014/7f2e61427c85b2f483097eb056e8013f_MIT2_71S14_Demo_1.pdf
 file_size: 302933
 file_type: application/pdf
 learning_resource_types: []
