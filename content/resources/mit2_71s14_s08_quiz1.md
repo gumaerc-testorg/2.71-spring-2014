@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics exam
   1, 2008.
-file: /courses/2-71-optics-spring-2014/c22194819594dea28554db1c697bbe19_MIT2_71S14_s08_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/c22194819594dea28554db1c697bbe19_MIT2_71S14_s08_quiz1.pdf
 file_size: 126028
 file_type: application/pdf
 learning_resource_types:

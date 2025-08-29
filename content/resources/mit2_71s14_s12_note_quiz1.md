@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding optics exam
   1, 2012.
-file: /courses/2-71-optics-spring-2014/438c2f4adfa5d5e68ac536013d5b2bff_MIT2_71S14_s12_note_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/438c2f4adfa5d5e68ac536013d5b2bff_MIT2_71S14_s12_note_quiz1.pdf
 file_size: 148459
 file_type: application/pdf
 learning_resource_types:

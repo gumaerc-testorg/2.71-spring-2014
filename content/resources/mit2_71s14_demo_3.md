@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding demo 3.
-file: /courses/2-71-optics-spring-2014/c885f8db16ea9b08eb4f3b7c325724b3_MIT2_71S14_Demo_3.pdf
+file: /ol-ocw-studio-app/courses/2-71-optics-spring-2014/c885f8db16ea9b08eb4f3b7c325724b3_MIT2_71S14_Demo_3.pdf
 file_size: 1576349
 file_type: application/pdf
 learning_resource_types: []
